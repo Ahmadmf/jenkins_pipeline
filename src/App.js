@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Welcome Jenkins Automatic building pipeline has been fixed
+          Learn React Welcome Jenkins Automatic building pipeline
+          has been fixed
           How are you! Hope you are doing good
         </a>
       </header>
